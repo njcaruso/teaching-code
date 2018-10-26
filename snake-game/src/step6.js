@@ -15,8 +15,8 @@ var boxSize = 20; // box size
 var food;
 
 function preload() {
-  sound = loadSound('/sounds/pop.mp3');
-  loseSound = loadSound('/sounds/lose.mp3');
+  sound = loadSound('https://raw.githubusercontent.com/njcaruso/teaching-code/master/snake-game/sounds/pop.mp3');
+  loseSound = loadSound('https://raw.githubusercontent.com/njcaruso/teaching-code/master/snake-game/sounds/lose.mp3');
 }
 
 function setup() {

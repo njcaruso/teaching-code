@@ -1,31 +1,26 @@
-# Coding Challenge #3: The Snake Game
+# Coding Challenge: The Snake Game
 
 A p5.js version of the Snake Game.
 
-Video for this challenge: https://www.youtube.com/watch?v=AaGK-fj-BAM
+Original code by Daniel Shiffman at https://youtu.be/AaGK-fj-BAM)
 
-To see the debugging process: https://www.youtube.com/watch?v=yUO2bWfBgN8#t=39m00s
-
+==
 Wikipedia page for the Snake Game: https://en.wikipedia.org/wiki/Snake_(video_game)
 
-## Community Variations
+Step 1 - canvas and single block snake
+https://editor.p5js.org/njcaruso/sketches/rkPur_lhX
 
-### By: [strikemike2k](https://github.com/strikemike2k)
-[Repository](https://github.com/strikemike2k/snake) | [Demo](https://strikemike2k.github.io/snake/)
+Step 2 - snake movement
+https://editor.p5js.org/njcaruso/sketches/By8PHOgnQ
 
-Included features:
-- Queue the controls into an array to prevent more than one turn being activated per frame causing only the last control to run
-- Added simple scoring and highscore
-- Multiple food options at the same time
-***
+Step 3 - snake tail
+https://editor.p5js.org/njcaruso/sketches/HkHUBOlhm
 
-### By: [bjorvack](https://github.com/bjorvack)
-[Repository](https://github.com/bjorvack/code-challenges/tree/master/challenges/cc-003-snake) | [Demo](https://bjorvack.github.io/code-challenges/challenges/cc-003-snake/)
+Step 4 - snake reset on self eaten
+https://editor.p5js.org/njcaruso/sketches/rJHrH_e2X
 
-Reworked snake in ES6
-***
+Step 5 - add food
+https://editor.p5js.org/njcaruso/sketches/S1YMHughQ
 
-### By: [elena-in-code](https://github.com/elena-in-code)
-[Repository](https://github.com/elena-in-code/Snake-Game) | [Demo](https://elena-in-code.github.io/Snake-Game/)
-
-***
+Step 6 - grow tail on eating food
+https://editor.p5js.org/njcaruso/sketches/rJdKHOghm
